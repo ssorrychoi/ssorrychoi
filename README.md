@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align='center'> 🎓 Hoseo University</h3>
+<h3 align='center'> 🎓 University</h3>
 <h4 align='center'>Barchelor of Computer Software</h4>
 
 <div align='center'>
