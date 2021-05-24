@@ -4,6 +4,8 @@
 
 
 <h3 align='center'> 🛠 Tech Stack 🛠</h3>
+<h4 align='center'>Techs that I've used at least once</h4>
+
 #### Braincolla
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
