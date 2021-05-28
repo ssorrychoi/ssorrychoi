@@ -4,7 +4,7 @@
 <h2>Wurrup guys 👋</h2>
 
 <div align='center'>
-  <h2>About ME👨🏻‍💻</h2>
+  <b>About ME👨🏻‍💻</b></br>
   <a href="https://velog.io/@ssorry_choi"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
 
