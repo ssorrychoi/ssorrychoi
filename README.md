@@ -4,8 +4,8 @@
 ## Wurrup guys 👋
 
 <div align='center'>
-### About ME👨🏻‍💻
-<a href="https://velog.io/@ssorry_choi"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <h2>About ME👨🏻‍💻</h2>
+  <a href="https://velog.io/@ssorry_choi"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
 
 <h3 align='center'> 🛠 Tech Stack 🛠</h3>
