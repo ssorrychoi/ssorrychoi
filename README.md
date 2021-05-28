@@ -1,10 +1,12 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssorrychoi&count_bg=%2379C83D&title_bg=%236CA8FF&icon=skyliner.svg&icon_color=%23FF0000&title=VISITS&edge_flat=false)](https://hits.seeyoufarm.com)
 [![ssorrychoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssorrychoi)](https://github.com/ssorrychoi/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssorrychoi&count_bg=%2379C83D&title_bg=%236CA8FF&icon=skyliner.svg&icon_color=%23FF0000&title=VISITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Wurrup guys 👋
 
+<div align='center'>
+### About ME👨🏻‍💻
 <a href="https://velog.io/@ssorry_choi"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
+</div>
 
 <h3 align='center'> 🛠 Tech Stack 🛠</h3>
 <h4 align='center'>Techs that I've used at least once</h4>
